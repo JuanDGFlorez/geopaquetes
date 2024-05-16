@@ -8,4 +8,5 @@
 
 -Se agregan constraints sobre la inserción de datos obligatorios, y limitaciones sobre año de construccion y  pisos.
 
+-Relaciones funcionando con archivo-lc_unidad , archivo-terreno, -archivo-direccion
 
